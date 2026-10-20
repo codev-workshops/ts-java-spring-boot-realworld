@@ -120,4 +120,4 @@ Use spotless for code format.
 
 # Help
 
-Please fork and PR to improve the project.
+Please fork and PR to improve the project. PRs to `main` are merged through the GitHub merge queue.
